@@ -2,7 +2,6 @@
 
 <h3>Tugas</h3>
 <ol>
-  <li> Reference somewhere on another page:</li>
       <li><a href="https://github.com/pahmideri/Pengantar-Algoritma-Deep-Learning/blob/master/Tugas1_Pahmi%20Deri%20Sutrisno_55415292_4IA11.pptx">Tugas 1 Upload PPT</a></li>
       <li><a href="https://nbviewer.jupyter.org/github/pahmideri/Pengantar-Algoritma-Deep-Learning/blob/master/SeabornAltair-Pahmi.ipynbs">Tugas 2 Seaborn</a></li>
       <li><a href="https://www.youtube.com/channel/UCaKLg1ELiX0zTJ6Je3c5esA">Cooming Soon... Semoga gaada</a></li>
