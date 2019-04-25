@@ -4,5 +4,6 @@
 <ol>
       <li><a href="https://github.com/pahmideri/Pengantar-Algoritma-Deep-Learning/blob/master/Tugas1_Pahmi%20Deri%20Sutrisno_55415292_4IA11.pptx">Tugas 1 Upload PPT</a></li>
       <li><a href="https://nbviewer.jupyter.org/github/pahmideri/Pengantar-Algoritma-Deep-Learning/blob/master/SeabornAltair-Pahmi.ipynb">Tugas 2 Seaborn</a></li>
+     <li><a href="https://nbviewer.jupyter.org/github/pahmideri/Pengantar-Algoritma-Deep-Learning/blob/master/Tugas3_PythonRegression.ipynb">Tugas 3 Python Regression</a></li>
      
   </ol>
